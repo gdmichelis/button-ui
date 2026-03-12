@@ -15,7 +15,7 @@ npm install button-ui
 ## Importing the component into your React project
 
 ```js
-import Button from "button-ui";
+import { Button } from "@gdmichelis/button-ui";
 ```
 
 ## Usage
