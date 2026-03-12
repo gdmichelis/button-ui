@@ -32,7 +32,7 @@ This library offers two ways to style your button:
 
 ```js
 //App.tsx
-import Button from "button-ui";
+import Button from "@gdmichelis/button-ui";
 
 function App() {
   return (
