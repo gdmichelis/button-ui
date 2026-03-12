@@ -9,7 +9,7 @@ A reusable React button component library, inspired by Bootstap 5 library!
 ## Installation
 
 ```shell
-npm install button-ui
+npm install @gdmichelis/button-ui
 ```
 
 ## Importing the component into your React project
