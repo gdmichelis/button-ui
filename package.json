@@ -26,6 +26,7 @@
     "styled-components",
     "typescript"
   ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
