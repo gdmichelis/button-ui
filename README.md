@@ -185,7 +185,3 @@ If you find any bug or you want to contribute to this project, please feel free 
 ### License
 
 button-ui is [MIT licensed](./LICENSE).
-
-### Keywords
-
-React, reusable button, component, styled-components, typescript
