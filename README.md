@@ -4,7 +4,7 @@ A reusable React button component library, inspired by Bootstap 5 library!
 
 ## Example
 
-![Example of reusable buttons](./readme_example.jpg)
+![Example of reusable buttons](https://github.com/gdmichelis/button-ui/blob/main/readme_example.jpg)
 
 ## Installation
 
